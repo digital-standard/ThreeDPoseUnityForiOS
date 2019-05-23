@@ -1,4 +1,7 @@
 # ThreeDPoseUnityForiOS
+画像、動画、カメラなどの２次元の画像データから人体の３次元の姿勢を推定する機械学習を研究しています。進捗などは[こちらのTwitterアカウント](https://twitter.com/yukihiko_a)を参照ください。
+
+ThreeDPoseUnityForiOSは、その学習結果のモデルとUnityを使用したiOS用の実装サンプルです。現時点ではA12プロセッサ（iPhoneXS,iPhoneXSMax,iPhoneXR）以上のiPhoneでしかまともに動かないと思います。Windows用はこちらの[ThreeDPoseUnitySample](https://github.com/yukihiko/ThreeDPoseUnitySample)を参照ください。このWindows版をベースに作成しました。姿勢推定は一人が写っている画像を前提としています。複数人の推定には対応していません。
 
 ## 使い方
 このプロジェクトはOpenCV for Unityを使用しています。OpenCV for UnityをAsset StoreからImportしてください。

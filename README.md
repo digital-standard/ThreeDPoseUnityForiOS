@@ -20,3 +20,4 @@ ThreeDPoseUnityForiOSは、その学習結果のモデルとUnityを使用した
 
 Non-commercial use only.Please use it freely for hobbies and research. When redistributing, it would be appreciated if you could enter a credit (Digital-Standard Co., Ltd.).Please contact us if you want to use it for commercial purposes.
 
+[yahoo](https://yahoo.co.jp/)
